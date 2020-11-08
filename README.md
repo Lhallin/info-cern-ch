@@ -14,7 +14,7 @@ additionaly, most of the links employed id tags which seemed
 
 painstakingly tedious but this is the nature of coding.
 
-
+</br>
 
 I added a footer which I thought was a nice touch with a 
 
